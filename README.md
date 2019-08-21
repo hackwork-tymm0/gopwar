@@ -1,4 +1,4 @@
-![GopWar](src/resources/skins/getz.png =200)
+![GopWar](src/resources/skins/getz.png)
 # GopWar
 
 ## Установка
